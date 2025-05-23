@@ -1,4 +1,4 @@
 # himansudemo
 This is my first Github Repository
 <br>
-Author - Himanshu
+Author - Himanshu (IIT Bhilai)
